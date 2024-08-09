@@ -1,0 +1,3 @@
+[console_scripts]
+boundary-client = boundary_detection.client.main:main
+boundary-server = boundary_detection.server.server:main
